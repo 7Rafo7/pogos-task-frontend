@@ -13,7 +13,7 @@ git clone https://github.com/7Rafo7/pogos-task-frontend.git
 ## Installation
 
 ```bash
-# then navigate to the frontend directory & to install dependencies for project
+# then navigate to the frontend directory & install dependencies for project
 $ yarn install
 ```
 
